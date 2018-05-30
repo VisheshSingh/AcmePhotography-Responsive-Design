@@ -121,3 +121,9 @@ footer h3 {
     height: 100vh;
   }
 }
+
+@media (min-width: 700px) {
+  .btn {
+    padding: 1rem 3rem;
+  }
+}
